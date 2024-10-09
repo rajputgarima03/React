@@ -1,0 +1,30 @@
+{
+  "name": "reactworld",
+  "version": "1.0.0",
+  "description": "This is a package manager by Garima Rajput",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github-second:rajputgarima03/React.git"
+  },
+  "keywords": [
+    "Garima",
+    "Rajput",
+    "React"
+  ],
+  "author": "Garima Rajput",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.26.2"
+  }
+}
